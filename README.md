@@ -1,6 +1,6 @@
 # PRJ-AndroidBoatCOM
 
-Android BoatCOM é uma aplicação desenvolvida pelos alunos Carlos Viegas e Nuno Brás no âmbito da Unidade Curricular de Projeto.
+Android BoatCOM é uma aplicação desenvolvida pelos alunos Carlos Viegas e Nuno Brás no âmbito da Unidade Curricular de Projeto do Instituto Superior de Engenharia de Lisboa com a parceria da Escola Superior Náutica Infante D. Henrique.
 
 Os softwares e respetivas versões utilizados para o desenvolvimento deste projeto são os seguintes:
 
