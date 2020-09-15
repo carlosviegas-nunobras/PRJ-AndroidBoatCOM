@@ -1,1 +1,1 @@
-
+Não foram realizados testes que pudessem ser documentados pois ainda não foi possível utilizar a aplicação com a embarcação 100% funcional por esta ainda estar em fase de construção. Mais detalhes no capítulo 5 do relatório presente na diretoria "_Relatorio".
