@@ -9,9 +9,14 @@ VMWare Workstation Player 15
 Ubuntu 16.04
 
 ROS distro -kinetic kame
+
 PuTTY 0.73
+
 Android Studio 4.01 (MapView e Seekbar incluídos)
+
 Magic Draw 19.0 (para abrir o ficheiro *.mdzip* da diretoria "00_Planeamento")
+
 Gauge 1.5.2
+
 JoystickView 1.10.1
 
